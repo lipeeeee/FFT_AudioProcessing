@@ -9,4 +9,5 @@ Low Frequency              | Mid Frequency           | Hard Frequency
 :-------------------------:|:-----------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/826.jpeg)   |![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/3768.jpeg) |![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/1694.jpeg)
 
-https://github.com/lipeeeee/FFT_AudioProcessing/blob/main/imagens/sample_processing.mp4
+# Sample Audio Frequency Encoding
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VPDgdQehW10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
