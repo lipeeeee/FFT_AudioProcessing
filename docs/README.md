@@ -9,5 +9,4 @@ Low Frequency              | Mid Frequency           | Hard Frequency
 :-------------------------:|:-----------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/826.jpeg)   |![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/3768.jpeg) |![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/1694.jpeg)
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
-
+https://github.com/lipeeeee/FFT_AudioProcessing/blob/main/imagens/sample_processing.mp4
