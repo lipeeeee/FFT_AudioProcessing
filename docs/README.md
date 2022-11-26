@@ -10,4 +10,5 @@ Low Frequency              | Mid Frequency           | Hard Frequency
 ![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/826.jpeg)   |![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/3768.jpeg) |![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/1694.jpeg)
 
 # Sample Audio Frequency Encoding
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VPDgdQehW10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Sample Audio Frequency Encoding](https://yt-embed.herokuapp.com/embed?v=VPDgdQehW10)](https://www.youtube.com/watch?v=VPDgdQehW10 "Fast Fourier Transform on Audio Frequencies")
+
