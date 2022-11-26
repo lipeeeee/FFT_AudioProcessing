@@ -11,4 +11,4 @@ Low Frequency              | Mid Frequency           | Hard Frequency
 
 https://youtu.be/VPDgdQehW10
 
-[![IMAGE ALT TEXT](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/3768.jpeg)](https://www.youtube.com/watch?v=VPDgdQehW10 "Fast Fourier Transform on Audio Frequencies")
+{% include youtube.html id="VPDgdQehW10" %}
