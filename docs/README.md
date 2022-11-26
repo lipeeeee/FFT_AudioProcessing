@@ -8,3 +8,7 @@ Frequencies ranges have been encoded into RGB values.
 Low Frequency              | Mid Frequency           | Hard Frequency
 :-------------------------:|:-----------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/826.jpeg)   |![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/3768.jpeg) |![](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/1694.jpeg)
+
+https://youtu.be/VPDgdQehW10
+
+[![IMAGE ALT TEXT](https://raw.githubusercontent.com/lipeeeee/FFT_AudioProcessing/main/imagens/3768.jpeg)](https://www.youtube.com/watch?v=VPDgdQehW10 "Fast Fourier Transform on Audio Frequencies")
